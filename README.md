@@ -10,6 +10,7 @@
 [htmlCommits]: https://img.shields.io/badge/HTML-228%20commits-orange.svg
 [cssCommits]: https://img.shields.io/badge/CSS-270%20commits-orange.svg
 
+###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 I am a creative Junior Full-stack Developer, recently graduated at Makers Academy, a selective developer boot camp based in London.
 
@@ -17,7 +18,7 @@ After 10 years in kitchen managerial roles, I translated my team managing abilit
 
 
 Being used to work in a stressful career, helped me keep focused on the task at hand, improving the prioritization of the right workload, while meeting strict deadlines.  
-That led to successful projects, that we are happy and proud to show, as my final project [**_Dinorun_**](https://github.com/Uvalente/technodactyl-studios-dinorun), a Single Page App, scrolling platform game built in pure Javascript.
+That led to successful projects, that we are happy and proud to show, as my final project [***Dinorun***](https://github.com/Uvalente/technodactyl-studios-dinorun), a Single Page App, scrolling platform game built in pure Javascript.
 
 I am currently looking for a workplace where I can further expand my knowledge.
 
