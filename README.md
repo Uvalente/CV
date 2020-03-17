@@ -21,7 +21,7 @@ That led to successful projects, that we are happy and proud to show, as my fina
 
 I am currently looking for a workplace where I can further expand my knowledge.
 
-# Projects
+## Projects
 
 Project | Description | Links | Tech Stack
 ---|---|:---:|:---:|
@@ -39,7 +39,7 @@ Makers BnB | BnB website, where a user is able to post a listing, navigate throu
 [makersBnBLinkGitHub]: https://github.com/Uvalente/makers-bnb 'Makers BnB GitHub'
 
 
-# Skills
+## Skills
 
 ### Team-player
 
@@ -60,52 +60,52 @@ I am always happy changing my products to meet customer needs, and positively ch
 
 Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges to improve my knowledge.
 
-# Education
+## Education
 
-### Makers Academy (11/2019 to 03/2020)
+#### Makers Academy (11/2019 to 03/2020)
 
 Full-stack coding course focused on:
 - OOP, TDD, MVC
 - Agile/XP practices, Pairing, Self-learning
 - Rails, JavaScript, SQL, HTML, CSS
 
-### University of Messina, Italy, IT Engineering (Incomplete) (09/2008 to 08/2009)
+#### University of Messina, Italy, IT Engineering (Incomplete) (09/2008 to 08/2009)
 
 - IT foundation, Geometry, Math Analysis, Physics
 
-### Liceo G. Seguenza, Scientific Diploma (09/2002 to 07/2007)
+#### Liceo G. Seguenza, Scientific Diploma (09/2002 to 07/2007)
 
 - Focused on Math, Biology, Chemistry, and Physics
 
-### Other qualifications
+#### Other qualifications
 
 - Food Allergy Training (2019)
 - Fire Marshal Certificate (2017)
 - Level 3 Award in Food Safety in Catering (2016)
 - Emergency First Aid At Work Certificate (2016)
 
-# Experience
+## Experience
 
-### The Biltmore Mayfair, LXR Hilton Hotels (06/2019 to 11/2019)    
-#### Banqueting Sous Chef 
+#### The Biltmore Mayfair, LXR Hilton Hotels (06/2019 to 11/2019)    
+##### Banqueting Sous Chef 
 
 - I was leading a team of 5, instructing them about the working place and government policies, and making sure the highest standard was achieved.
 - I have been entrusted with menu and recipe creation, and the supervising of others kitchens teams and operations.
 
-### Food By Dish (08/2017 to 02/2019)   
-#### Sous Chef  
+#### Food By Dish (08/2017 to 02/2019)   
+##### Sous Chef  
 
 - Being employed by a catering company made me refine timekeeping and management skills.
 - I was overseeing a different number of teams, organizing their work, and making sure that deadlines were met with no compromise on the final product quality.
 - At the end of my journey with them, I was the acting Head Chef, managing the staff, respecting the company budget, and coordinating their different venues.
 
-### Club Gascon (03/2016 to 08/2017)   
-#### Sous Chef  
+#### Club Gascon (03/2016 to 08/2017)   
+##### Sous Chef  
 
 - Working in a Michelin Star environment, greatly improved my attention to details while being in a highly stressful situation.
 - I started as a normal cook and through hard work and perseverance, I was promoted in less than 6 months to a managerial role.
 
-# Hobbies
+## Hobbies
 
 - Board games, I love to spend my time playing with friends and I am mastering a D&D campaign.
 - Cooking, after 10 years in a kitchen I still enjoy being surrounded by pots and hobs. [Check what's cooking on Insta!](https://www.instagram.com/u.valente/ 'Instagram')
