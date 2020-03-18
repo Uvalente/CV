@@ -30,12 +30,14 @@ Dinorun | Music generated **SPA** scrolling platform game.<br>A user provided Mp
 Acebook | A copy of Facebook, where I was developing user stories following customer requirement.<br>I implemented a **OAuth Github** registration and a **live chat**, using WebSockets and ActionCable | [![GitHub Link][gitHubLogo]][acebookLinkGitHub] [![GitHub Link][herokuLogo]][acebookLinkHeroku] | Ruby on Rails, Rspec, Capybara, Bootstrap, PostgreSQL, Travis
 Makers BnB | BnB website, where a user is able to post a listing, navigate through other offers and book a space to stay. | [![GitHub Link][gitHubLogo]][makersBnBLinkGitHub] | Ruby, Sinatra, Sequel, PostgreSQL
 
+For a complete list of projects, see my [Github](https://github.com/Uvalente).
+
 [gitHubLogo]: ./github.svg
 [herokuLogo]: ./heroku.svg
 
 [dinoLinkHeroku]: https://technodactyl-studios-dinorun.herokuapp.com/ 'Dinorun Heroku'
 [dinoLinkGitHub]: https://github.com/Uvalente/technodactyl-studios-dinorun 'Dinorun GitHub'
-[acebookLinkHeroku]: https://acebook-u-jakd.herokuapp.com/ 'Acebook Heroku'
+[acebookLinkHeroku]: https://acebook-uvalente.herokuapp.com/ 'Acebook Heroku'
 [acebookLinkGitHub]: https://github.com/Uvalente/acebook-U-JAKD 'Acebook GitHub'
 [makersBnBLinkGitHub]: https://github.com/Uvalente/makers-bnb 'Makers BnB GitHub'
 
