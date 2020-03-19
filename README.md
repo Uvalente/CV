@@ -13,7 +13,7 @@
 
 ###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-I am a creative Junior Full-stack Developer, recently graduated at Makers Academy, a selective developer boot camp based in London.
+I am a creative Junior Full-stack Developer, recently graduated from Makers Academy, a selective developer boot camp based in London.
 
 After 10 years in kitchen managerial roles, I translated my team managing abilities to a strict pair programming environment, implementing an AGILE workflow, working in harmony in all the teams that were assigned during the course.
 
