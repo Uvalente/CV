@@ -1,4 +1,4 @@
-# Umberto Valente
+# Umberto Valente [![LinkedIn][linkedIn]](https://www.linkedin.com/in/umberto-valente-360375195/ 'LinkedIn')
 [![Ruby commits][rubyCommits]](https://sourcerer.io/uvalente)
 [![JavaScript commits][jsCommits]](https://sourcerer.io/uvalente)
 [![HTML commits][htmlCommits]](https://sourcerer.io/uvalente)
@@ -9,6 +9,7 @@
 [jsCommits]: https://img.shields.io/badge/JavaScript-307%20commits-orange.svg
 [htmlCommits]: https://img.shields.io/badge/HTML-228%20commits-orange.svg
 [cssCommits]: https://img.shields.io/badge/CSS-270%20commits-orange.svg
+[linkedIn]: linkedin.svg
 
 ###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
@@ -20,7 +21,7 @@ After 10 years in kitchen managerial roles, I translated my team managing abilit
 Being used to work in a stressful career, helped me keep focused on the task at hand, improving the prioritization of the right workload, while meeting strict deadlines.  
 That led to successful projects, that we are happy and proud to show, as my final project [***Dinorun***](https://github.com/Uvalente/technodactyl-studios-dinorun), a Single Page App, scrolling platform game built in pure Javascript.
 
-I am currently looking for a workplace where I can further expand my knowledge.
+I am currently looking for an opportunity where pair programming is practiced, and where I can further expand my knowledge and skills.
 
 ## Projects
 
@@ -47,12 +48,12 @@ For a complete list of projects, please see my [Github](https://github.com/Uvale
 ### Team-player
 
 Always open to listening to other people's ideas, offer assistance when needed, and collaborate with colleagues, I enjoy following or leading in equal measure.  
-I always enjoyed mentoring and sharing knowledge, as well as encourage my team to feel comfortable in expressing their opinion and boosting team morale.
+I always enjoyed mentoring and sharing knowledge, as well as encouraging my team to feel comfortable in expressing their opinion and boosting team morale.
 
 ### Attention to detail
 
 Thanks to 10 years of experience in the hospitality sector, I have developed a keen eye for details, thriving under pressure, without ever compromising on quality.  
-That led to enjoying debugging, a skill that I put at good use during my Flash game project, finding and fixing bugs in the gameplay and user interactions.
+That led to enjoying debugging, a skill that I put at good use during my JavaScript game project, finding and fixing bugs in the gameplay and user interactions.
 
 ### Adaptability
 
