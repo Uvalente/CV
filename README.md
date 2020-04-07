@@ -1,14 +1,5 @@
 # Umberto Valente [![LinkedIn][linkedIn]](https://www.linkedin.com/in/umberto-valente-360375195/ 'LinkedIn')
-[![Ruby commits][rubyCommits]](https://sourcerer.io/uvalente)
-[![JavaScript commits][jsCommits]](https://sourcerer.io/uvalente)
-[![HTML commits][htmlCommits]](https://sourcerer.io/uvalente)
-[![CSS commits][cssCommits]](https://sourcerer.io/uvalente)
 
-
-[rubyCommits]: https://img.shields.io/badge/Ruby-357%20commits-orange.svg
-[jsCommits]: https://img.shields.io/badge/JavaScript-307%20commits-orange.svg
-[htmlCommits]: https://img.shields.io/badge/HTML-228%20commits-orange.svg
-[cssCommits]: https://img.shields.io/badge/CSS-270%20commits-orange.svg
 [linkedIn]: linkedin.svg
 
 ###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
