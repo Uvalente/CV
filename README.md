@@ -19,6 +19,7 @@ I am currently looking for an opportunity where pair programming is practiced, a
 Project | Description | Links | Tech Stack
 ---|---|:---:|:---:|
 Dinorun | Music generated **SPA** scrolling platform game.<br>A user provided Mp3 file is analysed to extract tempo and amplitude, that are then used to automatically generate a level. | [![GitHub Link][gitHubLogo]][dinoLinkGitHub] [![GitHub Link][herokuLogo]][dinoLinkHeroku] | JavaScript, jQuery, Jasmine, Ruby on Rails, Rspec, Capybara, PostgreSQL
+Recipes Book | WIP SPA **React** app where a user can upload his cooking recipes to a **Cloud Firestone** collection. The recipe card component automatically **refresh in real time** when a change is detected on the database. I am using **custom React Hooks** and **Router**. | [![GitHub Link][gitHubLogo]][recipesLinkGitHub] | React, Jest, Cloud Firestone
 Acebook | A copy of Facebook, where I was developing user stories following customer requirement.<br>I implemented an **OAuth GitHub** registration and a **live chat**, using WebSockets and Action Cable | [![GitHub Link][gitHubLogo]][acebookLinkGitHub] [![GitHub Link][herokuLogo]][acebookLinkHeroku] | Ruby on Rails, Rspec, Capybara, Bootstrap, PostgreSQL, Travis
 Makers BnB | BnB website, where a user is able to post a listing, navigate through other offers and book a space to stay. | [![GitHub Link][gitHubLogo]][makersBnBLinkGitHub] | Ruby, Sinatra, Sequel, PostgreSQL
 
@@ -29,6 +30,7 @@ For a complete list of projects, please see my [Github](https://github.com/Uvale
 
 [dinoLinkHeroku]: https://technodactyl-studios-dinorun.herokuapp.com/ 'Dinorun Heroku'
 [dinoLinkGitHub]: https://github.com/Uvalente/technodactyl-studios-dinorun 'Dinorun GitHub'
+[recipesLinkGitHub]: https://github.com/Uvalente/recipes-book 'Recipes Book GitHub'
 [acebookLinkHeroku]: https://acebook-uvalente.herokuapp.com/ 'Acebook Heroku'
 [acebookLinkGitHub]: https://github.com/Uvalente/acebook 'Acebook GitHub'
 [makersBnBLinkGitHub]: https://github.com/Uvalente/makers-bnb 'Makers BnB GitHub'
