@@ -4,9 +4,9 @@
 
 ###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-I am a creative Junior Full-stack Developer, recently graduated from Makers Academy, a selective developer boot camp based in London.
+I am a creative Full-stack Developer, recently graduated from Makers Academy, a selective developer boot camp based in London.
 
-After 10 years in kitchen managerial roles, I translated my team managing abilities to a strict pair programming environment, implementing an AGILE workflow, working in harmony in all the teams that were assigned during the course.
+After 10 years in kitchen managerial roles, I translated my team managing abilities to a strict pair programming environment, implementing an agile workflow, working in harmony in all the teams that were assigned during the course.
 
 
 Being used to work in a stressful career, helped me keep focused on the task at hand, improving the prioritization of the right workload, while meeting strict deadlines.  
@@ -18,8 +18,8 @@ I am currently looking for an opportunity where pair programming is practiced, a
 
 Project | Description | Links | Tech Stack
 ---|---|:---:|:---:|
+CookBook101 | Fully responsive **SPA React** app, where a user can create his personal recipes book, saving this data to a **Google Cloud Firestore NoSQL** database.<br>It's styled with **Tailwind CSS** framework, to achieve a responsive layout at every viewport. | [![GitHub Link][gitHubLogo]][recipesLinkGitHub] [![GitHub Link][herokuLogo]][recipesLinkHeroku] | React, Cloud Firestore, Tailwind CSS, Jest, Cypress
 Dinorun | Music generated **SPA** scrolling platform game.<br>A user provided Mp3 file is analysed to extract tempo and amplitude, that are then used to automatically generate a level. | [![GitHub Link][gitHubLogo]][dinoLinkGitHub] [![GitHub Link][herokuLogo]][dinoLinkHeroku] | JavaScript, jQuery, Jasmine, Ruby on Rails, Rspec, Capybara, PostgreSQL
-Recipes Book | WIP SPA **React** app where a user can upload his cooking recipes to a **Cloud Firestone** collection. The recipe card component automatically **refresh in real time** when a change is detected on the database. I am using **custom React Hooks** and **Router**. | [![GitHub Link][gitHubLogo]][recipesLinkGitHub] | React, Jest, Cloud Firestone
 Acebook | A copy of Facebook, where I was developing user stories following customer requirement.<br>I implemented an **OAuth GitHub** registration and a **live chat**, using WebSockets and Action Cable | [![GitHub Link][gitHubLogo]][acebookLinkGitHub] [![GitHub Link][herokuLogo]][acebookLinkHeroku] | Ruby on Rails, Rspec, Capybara, Bootstrap, PostgreSQL, Travis
 Makers BnB | BnB website, where a user is able to post a listing, navigate through other offers and book a space to stay. | [![GitHub Link][gitHubLogo]][makersBnBLinkGitHub] | Ruby, Sinatra, Sequel, PostgreSQL
 
@@ -30,7 +30,8 @@ For a complete list of projects, please see my [Github](https://github.com/Uvale
 
 [dinoLinkHeroku]: https://technodactyl-studios-dinorun.herokuapp.com/ 'Dinorun Heroku'
 [dinoLinkGitHub]: https://github.com/Uvalente/technodactyl-studios-dinorun 'Dinorun GitHub'
-[recipesLinkGitHub]: https://github.com/Uvalente/recipes-book 'Recipes Book GitHub'
+[recipesLinkGitHub]: https://github.com/Uvalente/recipes-book 'CookBook101 GitHub'
+[recipesLinkHeroku]: https://cook101.herokuapp.com/ 'CookBook101 Heroku'
 [acebookLinkHeroku]: https://acebook-uvalente.herokuapp.com/ 'Acebook Heroku'
 [acebookLinkGitHub]: https://github.com/Uvalente/acebook 'Acebook GitHub'
 [makersBnBLinkGitHub]: https://github.com/Uvalente/makers-bnb 'Makers BnB GitHub'
