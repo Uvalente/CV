@@ -61,7 +61,8 @@ I am always happy changing my products to meet customer needs, and positively ch
 
 ### Fast learner
 
-Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges to improve my knowledge.
+Able to take on new technologies and learn new practices rapidly and efficiently.  
+I actively sought out challenges to improve my knowledge.
 
 ## Education
 
@@ -72,20 +73,17 @@ Full-stack coding course focused on:
 - Agile/XP practices, Pairing, Self-learning
 - Rails, JavaScript, SQL, HTML, CSS
 
-#### University of Messina, Italy, IT Engineering (Incomplete) (09/2008 to 08/2009)
-
-- IT foundation, Geometry, Math Analysis, Physics
-
-#### Liceo G. Seguenza, Scientific Diploma (09/2002 to 07/2007)
+#### Liceo G. Seguenza, Scientific Diploma (2002 to 2007)
 
 - Focused on Math, Biology, Chemistry, and Physics
 
-#### Other qualifications
+### Certificates
 
-- Food Allergy Training (2019)
-- Fire Marshal Certificate (2017)
-- Level 3 Award in Food Safety in Catering (2016)
-- Emergency First Aid At Work Certificate (2016)
+- CS50x (CS50, Harvard University)
+- JavaScript Algorithms and Data Structures (freeCodeCamp)
+- Responsive Web Design Certification (freeCodeCamp)
+- Fire Marshal Certificate
+- Emergency First Aid At Work Certificate
 
 ## Experience
 
