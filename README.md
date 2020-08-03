@@ -1,6 +1,7 @@
-# Umberto Valente [![LinkedIn][linkedIn]](https://www.linkedin.com/in/umberto-valente/ 'LinkedIn')
+# Umberto Valente [![LinkedIn][linkedIn]](https://www.linkedin.com/in/umberto-valente/ 'LinkedIn') [![uValente.dev][linkSmall]](https://uvalente.dev 'uValente.dev')
 
-[linkedIn]: linkedin.svg
+[linkedIn]: ./linkedin.svg
+[linkSmall]: ./link-small.svg
 
 ###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
