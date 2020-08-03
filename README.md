@@ -1,4 +1,4 @@
-# Umberto Valente [![LinkedIn][linkedIn]](https://www.linkedin.com/in/umberto-valente-360375195/ 'LinkedIn')
+# Umberto Valente [![LinkedIn][linkedIn]](https://www.linkedin.com/in/umberto-valente/ 'LinkedIn')
 
 [linkedIn]: linkedin.svg
 
@@ -18,24 +18,29 @@ I am currently looking for an opportunity where pair programming is practiced, a
 
 Project | Description | Links | Tech Stack
 ---|---|:---:|:---:|
-CookBook101 | Fully responsive **SPA React** app, where a user can create his personal recipes book, saving this data to a **Google Cloud Firestore NoSQL** database.<br>It's styled with **Tailwind CSS** framework, to achieve a responsive layout at every viewport. | [![GitHub Link][gitHubLogo]][recipesLinkGitHub] [![GitHub Link][herokuLogo]][recipesLinkHeroku] | React, Cloud Firestore, Tailwind CSS, Jest, Cypress
-Dinorun | Music generated **SPA** scrolling platform game.<br>A user provided Mp3 file is analysed to extract tempo and amplitude, that are then used to automatically generate a level. | [![GitHub Link][gitHubLogo]][dinoLinkGitHub] [![GitHub Link][herokuLogo]][dinoLinkHeroku] | JavaScript, jQuery, Jasmine, Ruby on Rails, Rspec, Capybara, PostgreSQL
-Acebook | A copy of Facebook, where I was developing user stories following customer requirement.<br>I implemented an **OAuth GitHub** registration and a **live chat**, using WebSockets and Action Cable | [![GitHub Link][gitHubLogo]][acebookLinkGitHub] [![GitHub Link][herokuLogo]][acebookLinkHeroku] | Ruby on Rails, Rspec, Capybara, Bootstrap, PostgreSQL, Travis
-Makers BnB | BnB website, where a user is able to post a listing, navigate through other offers and book a space to stay. | [![GitHub Link][gitHubLogo]][makersBnBLinkGitHub] | Ruby, Sinatra, Sequel, PostgreSQL
+uValente.dev | Personal portfolio website.<br>I decided to opt for Next.js to statically generate my pages, improving performance and SEO.<br>Styled with Tailwind CSS, is enjoyable from every viewport. | [![GitHub Link][gitHubLogo]][uValenteLinkGitHub] [![Link][linkLogo]][uValenteLink] | Next.js, Tailwind CSS, Netlify
+Stock Mocks | Flask application created to mock buying and selling stock’s shares, building a dummy portfolio.<br>I applied an Application Factory approach to achieve ease of configuration and better testing.<br>Blueprints are used to better structure the codebase, keeping it more maintainable and organized.<br>A Dockerfile and instructions to create and run the application in containers are provided.<br>Travis CI is used for continuous integration, automated testing, and deployment. | [![GitHub Link][gitHubLogo]][stockLinkGitHub] [![Heroku Link][herokuLogo]][stockLinkHeroku] | Python, Flask, Pytest, SQL, Bootstrap 4, Docker, Travis CI, Heroku
+CookBook 101 | Fully responsive single page app where you can create your cooking recipes book, and browse through other users’ recipes.<br>I conceptualized this project from beginning to end.<br>After creating high-level user stories to outline the main functionalities, I employed wireframe diagrams to sketch the user interface and implemented it with a mobile first design.<br>The TDD process applied reduced bugs and improved the development workflow.<br>Once a feature is complete, it’s merged with the production branch and automatically deployed on Heroku. | [![GitHub Link][gitHubLogo]][recipesLinkGitHub] [![Heroku Link][herokuLogo]][recipesLinkHeroku] | React, Cloud Firestore, Cloud Storage, Tailwind CSS, Jest, Cypress, Heroku
+Dinorun | JavaScript SPA scrolling platform game.<br>A user provided Mp3 file is analysed to extract tempo and amplitude, the data is then used to automatically generate a level with different obstacles.<br>We developed this project in a ten days time frame, using an agile methodology and constant pair programming.<br>A Trello board was used to manage the product backlog and select the task to be included in two days Sprints.<br>Quick stand-up and retrospectives were conducted daily to update every member of the team on current progress and resolve blockers. | [![GitHub Link][gitHubLogo]][dinoLinkGitHub] [![Heroku Link][herokuLogo]][dinoLinkHeroku] | JavaScript, Ruby on Rails, PostgreSQL, jQuery, Jasmine, Rspec, Capybara, Heroku
+Acebook | Social media web app where as a user you can post, comment or like on yours or other people’s wall.<br>I personally implemented OAuth registration and a live chat using Rails Action Cable. Developed following client requirements, we focused on delivery the best result in the shortest timespan, and fluidly reacted to changes in specification.<br>We used Travis Continuous Integration for automatic testing, linting and deploying, and practised code reviews on pull requests. | [![GitHub Link][gitHubLogo]][acebookLinkGitHub] [![Heroku Link][herokuLogo]][acebookLinkHeroku] | Ruby on Rails, PostgreSQL, Bootstrap 4, Rspec, Capybara, Travis CI, Heroku
+
 
 For a complete list of projects, please see my [Github](https://github.com/Uvalente).
 
 [gitHubLogo]: ./github.svg
 [herokuLogo]: ./heroku.svg
+[linkLogo]: ./link.svg
 
+[uValenteLink]: https://uvalente.dev 'uValente Portfolio'
+[uValenteLinkGitHub]: https://github.com/Uvalente/portfolio 'uValente GitHub'
+[stockLinkHeroku]: https://stock-mocks.herokuapp.com/ 'Stock Mocks Heroku'
+[stockLinkGitHub]: https://github.com/Uvalente/finance 'Stock Mocks GitHub'
 [dinoLinkHeroku]: https://technodactyl-studios-dinorun.herokuapp.com/ 'Dinorun Heroku'
 [dinoLinkGitHub]: https://github.com/Uvalente/technodactyl-studios-dinorun 'Dinorun GitHub'
 [recipesLinkGitHub]: https://github.com/Uvalente/recipes-book 'CookBook101 GitHub'
 [recipesLinkHeroku]: https://cook101.herokuapp.com/ 'CookBook101 Heroku'
 [acebookLinkHeroku]: https://acebook-uvalente.herokuapp.com/ 'Acebook Heroku'
 [acebookLinkGitHub]: https://github.com/Uvalente/acebook 'Acebook GitHub'
-[makersBnBLinkGitHub]: https://github.com/Uvalente/makers-bnb 'Makers BnB GitHub'
-
 
 ## Skills
 
