@@ -5,7 +5,7 @@
 
 ###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-*For a more interactive version of this page, please visit my portfolio at [uValente.dev](https://uvalente.dev 'uValente.dev')*
+***For a more interactive version of this page, please visit my portfolio at [uValente.dev](https://uvalente.dev 'uValente.dev')***
 
 After many years surrounded by hobs and pots, I've hung up my knives and dust off my childhood dream.
 
