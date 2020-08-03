@@ -5,15 +5,21 @@
 
 ###### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
-I am a creative Full-stack Developer, recently graduated from Makers Academy, a selective developer boot camp based in London.
+*For a more interactive version of this page, please visit my portfolio at [uValente.dev](https://uvalente.dev 'uValente.dev')*
 
-After 10 years in kitchen managerial roles, I translated my team managing abilities to a strict pair programming environment, implementing an agile workflow, working in harmony in all the teams that were assigned during the course.
+After many years surrounded by hobs and pots, I've hung up my knives and dust off my childhood dream.
 
+Equipped with the same drive and perseverance that allowed me to rise and shine in the culinary world, I embarked on countless hours of self-study and self-improvement.
 
-Being used to work in a stressful career, helped me keep focused on the task at hand, improving the prioritization of the right workload, while meeting strict deadlines.  
-That led to successful projects, that we are happy and proud to show, as my final project [***Dinorun***](https://github.com/Uvalente/technodactyl-studios-dinorun), a Single Page App, scrolling platform game built in pure Javascript.
+I honed my skills at Makers Academy, absorbed the agile mentality, and thrived in pair programming.
 
-I am currently looking for an opportunity where pair programming is practiced, and where I can further expand my knowledge and skills.
+I admit it wasn't always an easy road, however, the feeling of developing an idea makes up for it.
+
+I found that coding is more than solving a problem or following instructions, it is also about being creative and look out for new perspectives.
+
+During these months, I had the opportunity to work on a few personal and collaborative projects and I am now looking for new exciting and challenging proposals that will boost my expertise and technical skills.
+
+If you would like to learn more about myself and my experience, feel free to reach out or have a look at my newest projects.
 
 ## Projects
 
